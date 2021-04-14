@@ -1,0 +1,10 @@
+<map id="GameField::IsWinning" name="GameField::IsWinning">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,169,108"/>
+<area shape="rect" id="node2" href="$class_game_field.html#a182163cd2536ddd7aa0a4d217d97210d" title=" " alt="" coords="229,5,372,32"/>
+<area shape="rect" id="node4" href="$class_game_field.html#ad6f43cc40a07b62cae067576e08d2683" title=" " alt="" coords="221,56,381,83"/>
+<area shape="rect" id="node7" href="$class_game_field.html#a4fe7527a7b45c9bf2ace8e84567ed857" title=" " alt="" coords="217,107,384,133"/>
+<area shape="rect" id="node8" href="$class_game_field.html#ab8c66fc127c32536d6e3c4f32ce4b1e3" title=" " alt="" coords="217,157,384,184"/>
+<area shape="rect" id="node3" href="$class_game_field.html#ad0617ea89db2d131eb76fc4b3774f1ef" title=" " alt="" coords="432,5,559,32"/>
+<area shape="rect" id="node5" href="$core_8hpp.html#ae790dfd5587f1f81287d93e8c8916f96" title=" " alt="" coords="444,56,547,83"/>
+<area shape="rect" id="node6" href="$struct_cards_chain.html#aa895fe4685004cc549c00d1977c4072d" title=" " alt="" coords="607,56,823,83"/>
+</map>
