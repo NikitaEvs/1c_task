@@ -1,0 +1,21 @@
+name: unit_tests
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Build
+        run : |
+          mkdir build
+          cd build
+          cmake .. -DTEST_BUILD=ON
+          make
+      - name: Test
+        run : |
+          cd build/test
+          ./unit_test
