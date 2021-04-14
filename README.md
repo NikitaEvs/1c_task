@@ -1,6 +1,6 @@
 # 1C entrance task
 
-[![unit_tests](https://github.com/NikitaEvs/1c_test/actions/workflows/test.yml/badge.svg)](https://github.com/NikitaEvs/1c_test/actions/workflows/test.yml)
+[![unit_tests](https://github.com/NikitaEvs/1c_task/actions/workflows/test.yml/badge.svg)](https://github.com/NikitaEvs/1c_task/actions/workflows/test.yml)
 
 ---
 
